@@ -1,0 +1,14 @@
+# Site settings
+title: Guibrush blog
+email: hi@guibru.sh
+description: > # this means to ignore newlines until "baseurl:"
+  Guibrush est une agence de communication web situee a Cuers dans le Var.
+  Nous realisons pour nos clients des sites internet vitrine, des blogs ou des
+  sites de E-commerce.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.guibru.sh" # the base hostname & protocol for your site
+twitter_username: guibru_sh
+github_username:  guibru-sh
+
+# Build settings
+markdown: kramdown
